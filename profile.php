@@ -24,6 +24,13 @@ require 'includes/header.php';
 
         <p>Proyek menampilkan profil, program studi, berita, serta formulir kontak. Data program studi dan berita dibaca dari database, sedangkan pesan pengguna disimpan menggunakan prepared statement.</p> 
 
+        <h2>Fokus Pembelajaran</h2>
+            <ul>
+                <li>Membangun halaman web dinamis dengan HTML, CSS, dan PHP native.</li>
+                <li>Mengelola data dengan MySQL dan prepared statement.</li>
+                <li>Mengelola riwayat perubahan dengan Git dan GitHub.</li>
+            </ul>
+
         <div class="alert alert-success">Konten institusi pada website ini bersifat simulasi untuk keperluan praktikum.</div> 
 
     </div> 
